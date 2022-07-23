@@ -3307,9 +3307,9 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .social li a:hover { opacity: 1; transform: translateX(0); }
 
-.social li a:hover .social-icon { background: #2b56f5; color: #fff; }
+.social li a:hover .social-icon { background: #ff0000; color: #fff; }
 
-.tc-light .social li a:hover .social-icon { background: #46bdf4; }
+.tc-light .social li a:hover .social-icon { background: #ff0000; }
 
 .social li a:hover .social-icon + span { color: #fff; }
 

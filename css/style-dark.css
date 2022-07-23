@@ -3315,7 +3315,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .social-icon { width: 32px; height: 32px; line-height: 32px; border-radius: 50%; transition: 0.3s; color: #28384c; background: #fff; }
 
-.tc-light .social-icon { color: #000000; background: #2b56f5; }
+.tc-light .social-icon { color: #000000; background: #ff0000; }
 
 .social-icon-transparent { background: transparent; }
 

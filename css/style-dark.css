@@ -488,11 +488,11 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .tc-lighter { color: rgba(255, 255, 255, 0.6) !important; }
 
-.tc-dark, .tc-dark a { color: #3e0606 !important; }
+.tc-dark, .tc-dark a { color: #000000 !important; }
 
 .tc-theme, .tc-theme a { color: #f44646 !important; }
 
-.tc-theme-alt, .tc-theme-alt a { color: #3e0606 !important; }
+.tc-theme-alt, .tc-theme-alt a { color: #000000 !important; }
 
 .tc-white { color: #fff !important; }
 

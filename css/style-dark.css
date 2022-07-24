@@ -578,11 +578,11 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .bg-white-22 { background-color: rgba(255, 255, 255, 0.22); }
 
-.bg-theme { background-color: #3e0606 !important; }
+.bg-theme { background-color: #000000 !important; }
 
 .bg-theme.current { background-color: rgba(11, 12, 34, 0.7) !important; }
 
-.bg-theme-alt { background-color: #3e0606 !important; }
+.bg-theme-alt { background-color: #000000 !important; }
 
 .bg-theme-alt.current { background-color: #171a40 !important; }
 
